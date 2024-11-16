@@ -11,11 +11,11 @@ This code is hightly inspired by [@fluent/react](https://github.com/projectfluen
 Install it:
 
 ```bash
-npm i @llelievr.dev/solid-fluent
+npm i @llelievr.dev/solid-fluent @fluent/bundle
 # or
-yarn add @llelievr.dev/solid-fluent
+yarn add @llelievr.dev/solid-fluent @fluent/bundle
 # or
-pnpm add @llelievr.dev/solid-fluent
+pnpm add @llelievr.dev/solid-fluent @fluent/bundle
 ```
 
 Use it:
