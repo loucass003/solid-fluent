@@ -1,5 +1,7 @@
 # @llelievr.dev/solid-fluent
 
+[![npm version](https://badge.fury.io/js/@llelievr.dev%2Fsolid-fluent.svg)](https://badge.fury.io/js/@llelievr.dev%2Fsolid-fluent)
+
 `@llelievr.dev/solid-fluent` provides the Solidjs bindings for [Project Fluent](https://projectfluent.org).
 
 This code is hightly inspired by [@fluent/react](https://github.com/projectfluent/fluent.js/tree/main/fluent-react) as a matter of fact this usage is almost the same.
