@@ -5,6 +5,9 @@
   "license": "MIT",
   "author": "loucass003",
   "contributors": [],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loucass003/solid-fluent.git"
