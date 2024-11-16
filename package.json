@@ -1,6 +1,6 @@
 {
   "name": "@llelievr.dev/solid-fluent",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A solijs wrapper around @fluent/bundle",
   "license": "MIT",
   "author": "loucass003",
