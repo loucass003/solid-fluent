@@ -1,6 +1,6 @@
-# @llellievr.dev/solid-fluent
+# @llelievr.dev/solid-fluent
 
-`@llellievr.dev/solid-fluent` provides the React bindings for [Project Fluent](https://projectfluent.org).
+`@llelievr.dev/solid-fluent` provides the React bindings for [Project Fluent](https://projectfluent.org).
 
 This code is hightly inspired by [@fluent/react](https://github.com/projectfluent/fluent.js/tree/main/fluent-react) as a matter of fact this usage is almost the same.
 
@@ -9,11 +9,11 @@ This code is hightly inspired by [@fluent/react](https://github.com/projectfluen
 Install it:
 
 ```bash
-npm i @llellievr.dev/solid-fluent
+npm i @llelievr.dev/solid-fluent
 # or
-yarn add @llellievr.dev/solid-fluent
+yarn add @llelievr.dev/solid-fluent
 # or
-pnpm add @llellievr.dev/solid-fluent
+pnpm add @llelievr.dev/solid-fluent
 ```
 
 Use it:
