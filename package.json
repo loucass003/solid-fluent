@@ -51,7 +51,8 @@
     "update-deps": "pnpm up -Li"
   },
   "peerDependencies": {
-    "solid-js": "^1.6.0"
+    "solid-js": "^1.6.0",
+    "@fluent/bundle": "^0.18.0"
   },
   "devDependencies": {
     "@types/node": "^20.17.6",
