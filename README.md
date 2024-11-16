@@ -22,10 +22,8 @@ Use it:
 
 ```tsx
 import { createSignal, ParentComponent, type Component } from 'solid-js'
-import { FluentProvider } from 'src/components/FluentProvider'
+import { FluentProvider, Localized, useFluent } from '@llelievr.dev/solid-fluent'
 import { FluentBundle, FluentResource } from '@fluent/bundle'
-import { useFluent } from 'src/hooks/context'
-import { Localized } from 'src/components/Localized'
 
 const DirectString: Component = () => {
   // you can access fluent translations from the useFluent hook
